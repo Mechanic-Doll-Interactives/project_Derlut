@@ -27,7 +27,7 @@
     {"compositeImage":{"FrameId":{"name":"633ec5a8-87a6-48f5-9e6e-31c9bfb2a6dd","path":"sprites/spr_Global/spr_Global.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"633ec5a8-87a6-48f5-9e6e-31c9bfb2a6dd","path":"sprites/spr_Global/spr_Global.yy",},"LayerId":{"name":"8ce837f8-4143-481f-b10e-58a5df648b63","path":"sprites/spr_Global/spr_Global.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"633ec5a8-87a6-48f5-9e6e-31c9bfb2a6dd","path":"sprites/spr_Global/spr_Global.yy",},"LayerId":{"name":"073b9b4f-64a4-41ff-8bb0-c23f709eed59","path":"sprites/spr_Global/spr_Global.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"633ec5a8-87a6-48f5-9e6e-31c9bfb2a6dd","path":"sprites/spr_Global/spr_Global.yy",},"LayerId":{"name":"d02f121b-7c1f-480b-b29e-89fc035aa014","path":"sprites/spr_Global/spr_Global.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"633ec5a8-87a6-48f5-9e6e-31c9bfb2a6dd","path":"sprites/spr_Global/spr_Global.yy",},"LayerId":{"name":"spr_Global","path":"sprites/spr_Global/spr_Global.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"633ec5a8-87a6-48f5-9e6e-31c9bfb2a6dd","path":"sprites/spr_Global/spr_Global.yy",},"LayerId":{"name":"f78aab1d-f0fa-4f24-8e94-2835a55bc3e5","path":"sprites/spr_Global/spr_Global.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_Global","path":"sprites/spr_Global/spr_Global.yy",},"resourceVersion":"1.0","name":"633ec5a8-87a6-48f5-9e6e-31c9bfb2a6dd","tags":[],"resourceType":"GMSpriteFrame",},
   ],
@@ -74,7 +74,7 @@
   ],
   "parent": {
     "name": "System",
-    "path": "folders/Sprites/System.yy",
+    "path": "folders/Scripts/Sprites/System.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_Global",

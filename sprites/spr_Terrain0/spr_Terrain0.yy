@@ -69,7 +69,7 @@
   ],
   "parent": {
     "name": "Terrain",
-    "path": "folders/Sprites/Terrain.yy",
+    "path": "folders/Scripts/Sprites/Terrain.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_Terrain0",

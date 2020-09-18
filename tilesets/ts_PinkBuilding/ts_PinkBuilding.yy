@@ -1,5 +1,4 @@
 {
-  "name": "ts_PinkBuilding",
   "spriteId": {
     "name": "spr_PinkBuilding",
     "path": "sprites/spr_PinkBuilding/spr_PinkBuilding.yy",
@@ -112,6 +111,7 @@
     "path": "folders/Tile Sets/Buildings.yy",
   },
   "resourceVersion": "1.0",
+  "name": "ts_PinkBuilding",
   "tags": [],
   "resourceType": "GMTileSet",
 }

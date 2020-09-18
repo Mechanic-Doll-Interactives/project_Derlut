@@ -1,5 +1,4 @@
 {
-  "name": "ts_Fence",
   "spriteId": {
     "name": "spr_Fence",
     "path": "sprites/spr_Fence/spr_Fence.yy",
@@ -58,15 +57,20 @@
     "SerialiseFrameCount": 1,
   },
   "macroPageTiles": {
-    "SerialiseWidth": 0,
-    "SerialiseHeight": 0,
-    "TileSerialiseData": [],
+    "SerialiseWidth": 1,
+    "SerialiseHeight": 3,
+    "TileSerialiseData": [
+      0,
+      0,
+      0,
+    ],
   },
   "parent": {
     "name": "Buildings",
     "path": "folders/Tile Sets/Buildings.yy",
   },
   "resourceVersion": "1.0",
+  "name": "ts_Fence",
   "tags": [],
   "resourceType": "GMTileSet",
 }
