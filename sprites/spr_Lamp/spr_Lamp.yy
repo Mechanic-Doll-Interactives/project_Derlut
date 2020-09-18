@@ -69,7 +69,7 @@
   ],
   "parent": {
     "name": "Objects",
-    "path": "folders/Scripts/Sprites/Objects.yy",
+    "path": "folders/Sprites/Objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_Lamp",

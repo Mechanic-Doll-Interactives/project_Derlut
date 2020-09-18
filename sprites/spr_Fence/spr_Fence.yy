@@ -69,7 +69,7 @@
   ],
   "parent": {
     "name": "Buildings",
-    "path": "folders/Scripts/Sprites/Buildings.yy",
+    "path": "folders/Sprites/Buildings.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_Fence",

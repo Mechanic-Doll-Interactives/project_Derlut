@@ -73,7 +73,7 @@
   ],
   "parent": {
     "name": "System",
-    "path": "folders/Scripts/Sprites/System.yy",
+    "path": "folders/Sprites/System.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_Camera",

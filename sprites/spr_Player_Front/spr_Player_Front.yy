@@ -69,7 +69,7 @@
   ],
   "parent": {
     "name": "Player",
-    "path": "folders/Scripts/Sprites/Player.yy",
+    "path": "folders/Sprites/Player.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_Player_Front",
